@@ -1,3 +1,7 @@
+body {
+    min-height: 200vh;
+}
+
 .logo {
     font-weight: 300;
     padding-left: 10px;
